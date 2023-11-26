@@ -1,21 +1,16 @@
-<<<<<<< HEAD
-# Flutter_JSON_API
-=======
-# my_app
+# Flutter CRUD Operations App
 
-A new Flutter project.
+Welcome to the Flutter CRUD Operations App! This mobile application allows you to perform CRUD (Create, Read, Update, Delete) operations using a JSON API.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Create:** Add new items to the dataset.
+- **Read:** Retrieve and view existing items from the API.
+- **Update:** Modify and update information for specific items.
+- **Delete:** Remove unwanted items from the dataset.
 
-A few resources to get you started if this is your first Flutter project:
+## Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 23fe8b8 (finished project)
-z
+- **Flutter:** The mobile app framework used for development.
+- **Dart:** The programming language used for Flutter development.
+- **JSON API:** The API used to perform CRUD operations.
