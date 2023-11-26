@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 7,
+      "civilite": "M.",
+      "nom": "Mohamed",
+      "prenom": "Charaa",
+      "specialite": "Informatique",
+      "matieres": [
+        "Informatique"
+      ]
+    },
+    {
+      "id": 8,
+      "civilite": "M.",
+      "nom": "Ayoub",
+      "prenom": "Charaa",
+      "specialite": "Electrique",
+      "matieres": [
+        "Informatique",
+        "Physique",
+        "Chimie"
+      ]
+    },
+    {
+      "id": 9,
+      "civilite": "M.",
+      "nom": "Bechir",
+      "prenom": "Charaa",
+      "specialite": "Electrique",
+      "matieres": [
+        "Physique",
+        "Mathématiques"
+      ]
+    }
+  ]
+}
